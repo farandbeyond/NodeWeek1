@@ -1,0 +1,9 @@
+Water
+Pepsi
+Gin
+Coffee
+Milk
+Tea
+Rum
+Sprite
+Beer
